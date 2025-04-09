@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# 👨‍🏫 Hi, I'm a teacher!
+
+I teach coding and web development.  
+I love creating fun projects and discovering the stories my students share with me.
+
+🚀 Between lessons, I like to experiment with HTML, CSS, JavaScript, and anything that can turn into something useful (or at least interesting).
+
+I believe code is a way to learn, tell stories, and have fun together.
+
+> "Every bug is just an adventure in disguise." 🐞
 <!--
 **federicoImmeLav/federicoImmeLav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
